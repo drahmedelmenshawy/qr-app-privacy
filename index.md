@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 13 November 2026._
+_Last updated: 14 November 2026._
 
 This QR code app ("the app") scans QR codes and barcodes, and creates QR codes, on your phone.
 
@@ -18,14 +18,15 @@ Every code you create is a **static** code: the data (for example a web address 
 - If you choose a logo for a styled code, the app opens your phone's photo picker. Only the picture you select is used; a small copy is kept inside the app so the code can be recreated.
 
 ## Advertising (Google AdMob)
-The free version shows a small banner ad and an optional rewarded video ad (which you can watch to unlock one styled export). Ads are provided by **Google AdMob**.
+The free version shows a small banner ad and an optional rewarded video ad (which you can watch, up to three times a day, to unlock one styled export). Ads are provided by **Google AdMob**.
 - AdMob may collect and use your device's advertising ID, IP address, approximate location derived from the IP address, and information about ad interactions and app performance, to deliver and measure ads, prevent fraud and show personalised or non-personalised ads, under Google's privacy policy: https://policies.google.com/privacy and https://support.google.com/admob/answer/6128543
 - **Consent.** Where the law requires it (for example in the EEA, UK and some other regions) the app asks for your consent with Google's User Messaging Platform before any ad is requested. You can change or withdraw your choice at any time in **Settings → Privacy choices**. If you do not consent, ads that need consent are not requested.
+- **iOS tracking permission.** On iPhone and iPad, after the consent step above and before the first ad, the app shows Apple's "Allow tracking" prompt. Only if you tap Allow may Google AdMob use your device's advertising identifier (IDFA) to personalise ads. If you tap Ask App Not to Track, ads are still shown but are not personalised with that identifier, and every feature of the app works the same. You can change this later in iOS Settings → Privacy & Security → Tracking.
 - Buying **Pro (lifetime)** removes the banner and the need for rewarded ads.
 - You can also reset or limit your advertising ID in your phone's system settings.
 
 ## Purchases
-Payments are handled by **Google Play Billing** (Android) or **Apple App Store / StoreKit** (iOS). We never see or store your payment details. The app only learns whether a purchase is active (Pro lifetime, or a single styled-code unlock) and keeps that status on your device. Pro is a one-time payment; there are no subscriptions and no free trials.
+Payments are handled by **Google Play Billing** (Android) or **Apple App Store / StoreKit** (iOS). We never see or store your payment details. The app only learns whether a purchase is active (Pro lifetime, the business template pack, or a single styled-code unlock) and keeps that status on your device. Pro is a one-time payment; there are no subscriptions and no free trials.
 
 ## Analytics and diagnostics
 The app has no analytics SDK of our own. Google Play services / Apple may collect crash and diagnostic information under their own policies, and the AdMob SDK may collect diagnostics as described above.
